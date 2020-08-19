@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=dex35&color=blue&style=flat)
+
 <!--
 **dex35/dex35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
